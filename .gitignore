@@ -76,6 +76,9 @@ docs/_build/
 # PyBuilder
 .pybuilder/
 target/
+# Folders
+Playlist/
+
 
 # Jupyter Notebook
 .ipynb_checkpoints
